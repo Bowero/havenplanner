@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+planning.csv
+.claude/settings.local.json
